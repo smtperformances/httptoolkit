@@ -1,0 +1,11 @@
+{
+  "name": "httptoolkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node": "^15.3.0",
+    "node-fetch": "^2.6.1"
+  }
+}
